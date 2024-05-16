@@ -52,22 +52,4 @@ document.querySelector(".slideshow-container").addEventListener("mouseleave", fu
 });
 
 
-// Get the topnav element
-var topnav = document.getElementById("Topnav a");
-
-// Function to handle scroll event
-function handleScroll() {
-  if (window.scrollY > 0) {
-    // Add collapsed class when user scrolls down
-    topnav.classList.add("collapsed");
-  } else {
-    // Remove collapsed class when user scrolls back to the top
-    topnav.classList.remove("collapsed");
-  }
-}
-
-// Add event listener for scroll event
-window.addEventListener("scroll", handleScroll);
-
-
 
