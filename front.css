@@ -410,3 +410,67 @@
   margin-top: 50px;
   margin-left: 250px;
 }
+
+.lower-container3{
+  height: 100vh;
+  background: seashell;
+  display: flex;
+  padding: 1px;
+  overflow: auto;
+  position: relative;
+}
+
+.inner3{
+  font: 36.8px Arial;
+  margin-left: 500px;
+  font-weight: 700;
+  text-shadow: 2px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.vanguard{
+  width: 280px;
+  height: 50px;
+  margin-top: 160px;
+  position: absolute;
+  margin-left: 90px
+}
+
+.nation{
+  width: 280px;
+  height: 60px;
+  margin-top: 150px;
+  position: absolute;
+  margin-left: 480px
+}
+
+.the{
+  width: 280px;
+  height: 60px;
+  margin-top: 150px;
+  position: absolute;
+  margin-left: 880px
+}
+
+.sun{
+  width: 180px;
+  height: 80px;
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 120px
+}
+
+.pm{
+  width: 150px;
+  height: 60px;
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 500px
+}
+
+.blueprint{
+  width: 250px;
+  height: 80px;
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 880px
+}
