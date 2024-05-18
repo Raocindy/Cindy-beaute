@@ -474,3 +474,10 @@
   position: absolute;
   margin-left: 880px
 }
+
+.header{
+  margin-left: 500px;
+  font: 27px arial;
+  color: white;
+  font-weight: bolder;
+}
